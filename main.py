@@ -2,7 +2,7 @@ from requests import get
 from matplotlib import pyplot as plt
 from datetime import datetime
 
-api_key = "GDDD69ZDT9UVWTZGEM39EVF69FB7AN2YKW"	
+api_key = "API_KEY_HERE"	
 base_url = "https://api.etherscan.io/api"
 ether_value = 10 ** 18
 
