@@ -44,6 +44,3 @@ def main():
 if __name__ == "__main__":
     main()
 
-# Eksempel på bruk (kommentert ut):
-# address = 0xb794f5ea0ba39494ce839613fffba74279579268
-# get_transactions(address)
